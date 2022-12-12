@@ -1,0 +1,16 @@
+.odd_num{
+background-color: rgb(255, 152, 165);
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+}
+#third_num{
+   font-size: 24px;
+}
+#second_num{
+    font-size: 36px;
+    color: rgb(10, 10, 255);
+}
+#fourth_num{
+    font-size: 24px;
+    font-weight: bold;
+    background-color: rgb(150, 255, 150);
+}
