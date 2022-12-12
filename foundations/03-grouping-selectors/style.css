@@ -1,0 +1,11 @@
+.blackbutt,.yellbutt{
+font-family: 'Times New Roman', Helvetica, sans-serif;
+font-size: 28px;
+}
+.blackbutt{
+    background-color: black;
+    color: white;
+}
+.yellbutt{
+    background-color: yellow;
+}
